@@ -1,0 +1,135 @@
+@media (max-width: 1010px){
+    .lista1{
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 993px){
+    .lista1{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 528px){
+    .lista1{
+        font-size: 13px;
+    }
+}
+
+@media (max-width:1001px) {
+    .section1{
+        width: 420px;
+    }
+
+    .menu-options{
+        width: 100vh;
+    }
+    h1{
+        font-size: 30px;
+
+    }
+    .info{
+        font-size: 18px;
+    }
+    .button-saiba-mais{
+        padding: 10px;
+        font-size: 12px;
+    }
+
+    .aplicativo{
+        width: 100px;
+    }
+
+    .section6{
+        width: 600px;
+    }
+
+    #register{
+        font-size: 30px;
+    }
+    #inner-description{
+        font-size: 16px;
+    }
+    .aplicativo{
+        width: 170px;
+    }
+}
+
+@media (max-width: 816px){
+
+    .container1{
+        flex-wrap: wrap;
+    }
+    .section3{
+        width: 550px;
+    }
+}
+
+@media (max-width: 796px){
+    .section4{
+        width: 200px;
+    }
+    .section2{
+        padding-left: 0
+    }
+}
+
+@media (max-width:771px){
+    .container-list{
+        width: 340px;
+    }
+
+     }
+    .selected{
+        padding: 0px;
+    } 
+    .botao{
+        margin: 0;
+    }
+
+@media (max-width:681px){
+    .about{
+        max-width: 400px;
+    }
+
+   .questions-community{
+    max-width: 300px;
+   }
+   footer{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   }
+
+   .section6{
+    flex-wrap: wrap-reverse;
+    max-width: 350px;
+   }
+   #inner-description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+   }
+   .answer{
+    max-width: 300px;
+   }
+
+   .menu-options{
+    width: 80vh;
+   }
+   .section8{
+    max-width: 200px;
+   }
+
+}
+
+@media (max-width:564px){
+    .section4{
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .section5{
+        width: 200px;
+       }
+}
+
