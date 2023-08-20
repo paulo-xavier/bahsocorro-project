@@ -1,7 +1,7 @@
 # BAH Socorro - 2023
 
 This page was developed by Paulo Roberto Xavier.  
-The page consists in a Landing Page of divulgation about my Final Course project, named BAH Socorro. I'm developing this final project with my teammates.   
+The page consists in a Landing Page of divulgation about my Final Course Project, named BAH Socorro. I'm developing this final project with my teammates.   
 
 ## Table of contents
 
