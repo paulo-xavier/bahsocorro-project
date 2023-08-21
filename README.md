@@ -23,8 +23,8 @@ This is a landing page of my Final Project Course. The application consists in a
 
 ### Links
 
-- URL -[GitHub]()
-- Repository [GitHub]()
+- URL -[GitHub](https://paulo-xavier.github.io/bahsocorro-project/)
+- Repository [GitHub](https://github.com/paulo-xavier/bahsocorro-project)
 
 ## My process
 
